@@ -1,2 +1,2 @@
 # LearnGit 
-Edit by Pop
+Edit by Popt
